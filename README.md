@@ -1,2 +1,3 @@
 # testdir
 tested done.
+ok
